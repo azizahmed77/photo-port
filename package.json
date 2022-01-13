@@ -1,6 +1,4 @@
 {
-<<<<<<< HEAD
-=======
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
@@ -35,7 +33,6 @@
       "last 1 safari version"
     ]
   },
->>>>>>> feature/react-tests
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2"
